@@ -32,3 +32,14 @@
 	<a href="perancangan-web.html">pindah ke halaman selanjutnya</a>
 	</body>
 </html>
+<html> 
+    <head>
+        <title>WEBSITE</title>
+    </head>
+	<body bgcolor="white">
+	<center>
+	<h1><u><i><font color="black">pengenalan perancangan website</font color></u></i></h1></center>
+	<h5>pengenalan perancangan website</font color></u></i></h1></center>
+	<a href="belajarrr.html">pindah ke halaman sebelumnya</a>
+    <body/>
+<html>
